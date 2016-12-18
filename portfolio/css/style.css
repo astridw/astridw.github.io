@@ -1,0 +1,56 @@
+body {
+  font-family: 'Lato', sans-serif;
+  line-height: 1.5;
+  background: url('../images/present.jpg');
+  /* Full Page Background Receipe */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.container {
+  background: rgba(0,0,0,0.5);
+  color: white;
+  width: 500px;
+  margin: 50px;
+  padding: 15px;
+  border-radius: 10px;
+
+}
+h1{
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+  font-size: 60px;
+  margin-bottom: -50px;
+}
+h2 {
+
+  font-size: 30px;
+  color: #54f7ec;
+}
+a {
+  color: #bfe35b;
+  text-decoration: none;
+}
+
+.nav {
+  text-align: center;
+}
+h5 {
+  text-align: center;
+}
+.mini-nav {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+  color: #ff66d9;
+  font-size: 20px;
+}
+h4{
+  color: #ffcc66;
+}
+.github {
+  text-align: center;
+}
+.mini-nav {
+  text-align: center;
+}
