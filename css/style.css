@@ -1,7 +1,7 @@
 body {
   font-family: 'Lato', sans-serif;
   line-height: 1.5;
-  background: url('../images/desk.jpg');
+  background: url('../images/table.jpg');
   /* Full Page Background Receipe */
   background-size: cover;
   background-position: center;
@@ -20,9 +20,11 @@ h1{
   font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   font-size: 60px;
   margin-bottom: -50px;
+  text-align: center;
 }
 h2 {
   font-size: 30px;
+  text-align: center;
 }
 a {
   color: #bfe35b;
@@ -33,5 +35,8 @@ a {
   text-align: center;
 }
 h5 {
+  text-align: center;
+}
+h3 {
   text-align: center;
 }
